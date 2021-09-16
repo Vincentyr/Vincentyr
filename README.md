@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vincentyr
 - 👀 I’m interested in product development, machine learning, and data analysis
-- 🌱 I’m currently learning Big Data Analytic and a step further into machine learning
+- 🌱 I’m currently learning Data Engineering and a step further into machine learning
 - 💞️ I’m looking to collaborate on real world project focusing on data analytic 
 - 📫 Feel free to reach me via vincentsiowyongren@gmail.com or linkedin : https://www.linkedin.com/in/siow-yong-ren-0b5541125/
 
